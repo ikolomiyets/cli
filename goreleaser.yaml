@@ -43,7 +43,7 @@ universal_binaries:
 brews:
   -
     name: cli
-    homepage: https://github.com/marianina8
+    homepage: https://github.com/ikolomiyets
     tap:
       owner: ikolomiyets
       name: cli
